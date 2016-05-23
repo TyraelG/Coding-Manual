@@ -15,5 +15,5 @@ function example4css() {
 }
 
 function example4html() {
-	document.getElementById('cssExamplecss').innerHTML = ""
+	document.getElementById('cssExamplecss').innerHTML = "<style>#htmlExample{font-family:sans-serief; color:black background-color: white;}</style>margin-top: 100px;";
 }
